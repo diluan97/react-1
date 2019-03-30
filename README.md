@@ -3,3 +3,5 @@
 _Cài React_
 - Setup GitKaren
 - Setup Github (Repo) up souce lên git.
+
+Bài Tập 1: tổng hợp buổi 1
