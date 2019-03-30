@@ -2,4 +2,4 @@
 ## Nội dung
 _Cài React_
 - Setup GitKaren
-- Setup Github (Repo) up souce lên git
+- Setup Github (Repo) up souce lên git.
